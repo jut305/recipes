@@ -2,7 +2,7 @@
 title: Madu's Chipotle Chicken Tortilla Soup
 course: soup
 cuisine: southwestern
-tags: [chicken, rotisserie-chicken, chipotle, spicy, tortilla-soup, from-madu]
+tags: [chicken, rotisserie-chicken, chipotle, spicy, tortilla-soup, soupfest-2026, from-madu]
 main_ingredients: [rotisserie chicken, chipotle chiles in adobo, crushed tomatoes, chicken broth, lime]
 servings: 4
 prep_time:
@@ -49,6 +49,7 @@ much more chipotle and spice, spices bloomed in the onions, and a longer simmer.
 
 ## Notes
 
+- 2026-11-14: Madu made this for Soupfest 2026.
 - 2026-11-14: Madu's mods vs. the printed recipe: chicken instead of turkey; 1/2 can chipotle instead of 1/2–1 tsp purée; cumin up from 1/2 tsp to 2 tsp, plus 2 tsp oregano; chipotle and spices sautéed with the onion; tomatoes sautéed a few minutes before the broth; simmer ~20 min, then 20–30 more with chicken and lime (printed: 10 min).
 - 2026-11-14: Madu's note, verbatim: "Added way more spices and chipotle. I also sautéed the chipotle and spices in the onion garlic mixture for bit before adding broth. And I simmered the soup for longer than just 10min. Prolly 20min without chicken and then another 20-30 with the chicken and lime added. Oh and I just shredded up some Costco rotisserie chicken."
 
