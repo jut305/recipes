@@ -70,6 +70,10 @@ INDEX.md                 generated catalogue — never edit by hand
   then optionally suggest from general knowledge, clearly labelled as not from
   the collection.
 - Units: keep the source's units; convert on request.
+- **Showing a recipe:** when Justin asks for one, reply in plain text: title,
+  who it's from, ingredients list, numbered steps, and any notes. Don't use the
+  recipe card widget (it adds unrelated stock photos). Attach the source photo
+  only if he asks for it.
 
 ## Commit hygiene
 
