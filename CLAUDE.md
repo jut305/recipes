@@ -21,6 +21,21 @@ INDEX.md                 generated catalogue — never edit by hand
 - Categories live in the header (`course`, `cuisine`, `tags`), not in folders,
   so a recipe can belong to several at once.
 
+## Tags and people
+
+- **Tags** are lowercase and hyphenated, and cover what Justin would search by:
+  main protein or ingredient (`salmon`, `halibut`), method (`grill`, `smoker`,
+  `instant-pot`), occasion (`weeknight`, `party`, `holiday`), and traits
+  (`make-ahead`, `freezer`, `spicy`, `kid-friendly`). Aim for 3–8 per recipe.
+- Before inventing a tag, list the existing ones
+  (`grep -h '^tags:' recipes/*.md`) and reuse a match: `bbq` not a second
+  `barbecue`.
+- **Recipes from a person** ("Becca's poke"): put the name in `from:`
+  (`from: Becca`), add the tag `from-becca`, and use the possessive in the title
+  and slug: `title: Becca's Poke`, `recipes/beccas-poke.md`. Keep the name
+  spelled exactly as Justin spells it, and reuse it consistently.
+- "Becca's recipes" or "what did Becca give me?" → search `from:`.
+
 ## Adding a recipe
 
 1. `git pull` first.

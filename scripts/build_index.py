@@ -39,15 +39,15 @@ def main():
         course = m.get("course") or "uncategorised"
         if course != current:
             out += ["", f"## {course.capitalize()}", "",
-                    "| Recipe | Cuisine | Time (min) | Tags | Made |",
-                    "|---|---|---|---|---|"]
+                    "| Recipe | From | Cuisine | Time (min) | Tags | Made |",
+                    "|---|---|---|---|---|---|"]
             current = course
         tags = m.get("tags") or []
         tags = ", ".join(tags) if isinstance(tags, list) else tags
         made = "✓" if str(m.get("made", "")).lower() == "true" else ""
         if m.get("rating"):
             made += f" {m['rating']}/5"
-        out.append(f"| [{m.get('title') or name}](recipes/{name}) | {m.get('cuisine','')} | "
+        out.append(f"| [{m.get('title') or name}](recipes/{name}) | {m.get('from','')} | {m.get('cuisine','')} | "
                    f"{m.get('total_time','')} | {tags} | {made.strip()} |")
     if not rows:
         out.append("_No recipes yet._")

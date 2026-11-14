@@ -8,6 +8,7 @@ servings:
 prep_time:       # minutes
 cook_time:       # minutes
 total_time:      # minutes
+from:            # person it came from, e.g. Becca (leave empty if none)
 source:          # URL, book + page, or person
 added:           # YYYY-MM-DD
 updated:         # YYYY-MM-DD
