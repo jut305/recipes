@@ -13,7 +13,15 @@ images/<slug>/           photos for that recipe (source page, finished dish)
 templates/recipe.md      the format every recipe follows
 scripts/build_index.py   regenerates INDEX.md from the recipe headers
 INDEX.md                 generated catalogue — never edit by hand
+site/template.html       the cookbook website (Kitchen Binder design)
+scripts/build_site.py    builds the website into dist/ (Netlify runs it on every push)
+netlify.toml             Netlify build settings
 ```
+
+The website is rebuilt by Netlify automatically on every push to `main`, so a
+pushed recipe goes live in a minute or two. Its tabs come from the recipes:
+a course gets a side tab once a recipe uses it; the top tabs are the most-used
+tags. Clean, consistent tags keep the website's tabs clean.
 
 - **Slug:** lowercase, hyphenated, descriptive: `green-chile-pork-stew.md`.
   If the slug already exists for a different dish, add a qualifier
@@ -52,7 +60,9 @@ INDEX.md                 generated catalogue — never edit by hand
    of the page's prose.
 6. Justin's own comments ("too salty, halve the soy", "Barbara's version") go
    under **Notes**, dated, verbatim where possible.
-7. Run `python3 scripts/build_index.py`, then commit and push:
+7. Run `python3 scripts/build_index.py` and `python3 scripts/build_site.py`
+   (the second just checks the site still builds; `dist/` isn't committed),
+   then commit and push:
    `git add -A && git commit -m "Add: <title>" && git push`.
 
 ## Updating a recipe
