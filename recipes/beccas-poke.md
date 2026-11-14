@@ -23,7 +23,7 @@ Cubed fish in a soy, ginger and chili-oil marinade. Marinate at least 2 hours, u
 
 ## Ingredients
 
-- 2–3 tsp ginger (fresh or ground? not specified)
+- 2–3 tsp ground ginger
 - 1 tsp garlic powder
 - 2 Tbsp brown sugar
 - 1/2 cup soy sauce
@@ -41,7 +41,7 @@ Cubed fish in a soy, ginger and chili-oil marinade. Marinate at least 2 hours, u
 
 ## Notes
 
-- 2026-11-14: Card writes "skinned?" with a question mark; transcribed as skinned. Fish type and ginger form aren't given on the card.
+- 2026-11-14: Ginger is ground; fish is skinned (confirmed by Justin). Fish type not given on the card.
 
 ## Source
 
