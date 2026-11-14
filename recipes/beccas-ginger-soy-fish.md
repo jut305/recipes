@@ -1,14 +1,14 @@
 ---
-title: Ginger-Soy Fish
+title: Becca's Ginger-Soy Fish
 course: main
 cuisine: asian
-tags: [fish, halibut, cod, skillet, weeknight]
+tags: [fish, halibut, cod, skillet, weeknight, from-becca]
 main_ingredients: [white fish, ginger, scallions, soy sauce]
 servings:
 prep_time:
 cook_time:
 total_time:
-from:
+from: Becca
 source: Handwritten card, adapted from rasamalaysia.com — photo
 added: 2026-11-14
 updated: 2026-11-14
@@ -17,7 +17,7 @@ rating:
 status: active
 ---
 
-# Ginger-Soy Fish
+# Becca's Ginger-Soy Fish
 
 Cornstarch-dusted white fish pan-fried with crisp ginger and finished in a quick soy sauce. Serve over rice.
 
@@ -45,6 +45,10 @@ Cornstarch-dusted white fish pan-fried with crisp ginger and finished in a quick
 6. Add the sauce; as soon as it bubbles, take it off the heat.
 7. Serve over rice, topped with the fried ginger and scallions.
 
+## Notes
+
+- 2026-11-14: From Becca's binder.
+
 ## Source
 
-Handwritten card: ![source](../images/ginger-soy-fish/source-1.jpg)
+Handwritten card: ![source](../images/beccas-ginger-soy-fish/source-1.jpg)

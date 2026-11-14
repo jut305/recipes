@@ -1,14 +1,14 @@
 ---
-title: Tilapia in Roasted Pepper Sauce
+title: Becca's Tilapia in Roasted Pepper Sauce
 course: main
 cuisine: italian
-tags: [fish, tilapia, skillet, creamy]
+tags: [fish, tilapia, skillet, creamy, from-becca]
 main_ingredients: [white fish, roasted red peppers, heavy cream, parmesan, onion]
 servings: 4
 prep_time: 10
 cook_time: 20
 total_time: 30
-from:
+from: Becca
 source: https://cooktoria.com/tilapia-roasted-pepper-sauce/ (Tania Sheff) — printed page, photo
 added: 2026-11-14
 updated: 2026-11-14
@@ -17,7 +17,7 @@ rating:
 status: active
 ---
 
-# Tilapia in Roasted Pepper Sauce
+# Becca's Tilapia in Roasted Pepper Sauce
 
 Pan-fried white fish in a creamy roasted red pepper and Parmesan sauce. Handwritten on the page: any white flaky fish works.
 
@@ -45,8 +45,9 @@ Pan-fried white fish in a creamy roasted red pepper and Parmesan sauce. Handwrit
 
 ## Notes
 
+- 2026-11-14: From Becca's binder.
 - 2026-11-14: The page says "see note" for the roasted peppers, but the Notes section was blank on the printout.
 
 ## Source
 
-Printed page (cooktoria.com): ![source](../images/tilapia-roasted-pepper-sauce/source-1.jpg)
+Printed page (cooktoria.com): ![source](../images/beccas-tilapia-roasted-pepper-sauce/source-1.jpg)
