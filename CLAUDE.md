@@ -18,7 +18,7 @@ scripts/build_site.py    builds the website into dist/ (Netlify runs it on every
 netlify.toml             Netlify build settings
 ```
 
-The website is rebuilt by Netlify automatically on every push to `main`, so a
+The website (https://justinscookbook.netlify.app/) is rebuilt by Netlify automatically on every push to `main`, so a
 pushed recipe goes live in a minute or two. Its tabs come from the recipes:
 a course gets a side tab once a recipe uses it; the top tabs are the most-used
 tags. Clean, consistent tags keep the website's tabs clean.
